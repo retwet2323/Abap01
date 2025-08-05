@@ -21,7 +21,7 @@ data: i TYPE string.
 
    i = 'a' .
 
-  out->write(  ' Star of Selection : HOLA' ).
+  out->write(  ' Star of Selection : HOLA2' ).
 
   ENDMETHOD.
 ENDCLASS.
