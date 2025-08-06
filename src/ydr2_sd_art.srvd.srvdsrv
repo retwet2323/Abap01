@@ -1,0 +1,4 @@
+@EndUserText.label: 'Definicion del CDS'
+define service YDR2_SD_ART {
+  expose YDR2_CDS_Art;
+}
